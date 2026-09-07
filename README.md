@@ -58,7 +58,7 @@ Apoie nosso projeto no [Apoia-se](apoia.se/teomewhy)
 
 Pessoas participantes:
 
-- Carol Brito- 2026
+- Carol Brito.
 - Igor Dammous
 - Infoslack
 - Leo Medeiros
